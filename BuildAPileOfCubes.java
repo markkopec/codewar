@@ -10,9 +10,7 @@ public class ASum {
       wynik += (long)pow(count, 3)  ;
       if (wynik < m){
         count++;
-      } //else {
-      //  wynik -= pow(count, 3)  ;
-      //}	  
+      }   
     }
     
     
